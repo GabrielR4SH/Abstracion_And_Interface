@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.exe
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.deps.json
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.runtimeconfig.json
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.runtimeconfig.dev.json
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.dll
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\bin\Debug\netcoreapp3.1\GrayHat1.pdb
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.AssemblyInfo.cs
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.dll
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.pdb
+C:\Users\User\Desktop\Meus Codigos\GrayHat1\GrayHat1\obj\Debug\netcoreapp3.1\GrayHat1.genruntimeconfig.cache
